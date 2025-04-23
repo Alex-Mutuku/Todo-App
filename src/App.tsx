@@ -71,7 +71,7 @@ return [
     <>
      <div className='max-w-md mx-auto p-4 bg-gray-50 rounded-lg shadow-md m-2 h-auto scroll-auto'>
      <AnimatePresence>
-     <h1 className='font-bold mb-4 text-2xl text-center text-shadow font-roboto-500'>My Todos</h1>
+     <h1 className='font-bold mb-4 text-2xl text-center text-shadow font-roboto-500'>My-Todos</h1>
 
      {/* Form to add a new todo */}
       <form onSubmit={addTodo} className='flex mb-4'>
